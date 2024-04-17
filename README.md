@@ -8,14 +8,14 @@
 <br />
 <br />
 
-Hi there, I'm **Agustin Londoño**, a **Web adminitration student** 🚀 from Colombia.  Currently, I'm a Community Team Member [@AgustinLon](https://github.com/CAgustinLon). 
+Hi there, I'm **Agustin Londoño**, a **Web technology management student** 🚀 from Colombia.  Currently, I'm a Community Team Member [@AgustinLon](https://github.com/CAgustinLon). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an San Jose de las Vegas student, in 11th grade;
-- 🌱 I’m currently learning Web Administration; 
+- 🌱 I’m currently learning Web technology management; 
 - 🤔 My interests are with Videogames, Computer vision, programation, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via agustinlondonogonzalez@gmail.com to reach me.
